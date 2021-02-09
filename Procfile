@@ -1,1 +1,1 @@
-web: gunicorn chuck-norris-jokes: app
+web: gunicorn chuck-norris-jokes:app
